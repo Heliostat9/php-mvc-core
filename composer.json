@@ -2,7 +2,7 @@
     "name": "heliostat/core",
     "autoload": {
         "psr-4": {
-            "heliostat\\core": "."
+            "heliostat\\core\\": "."
         }
     },
     "authors": [
