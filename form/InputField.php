@@ -1,9 +1,9 @@
 <?php
 
 
-namespace app\core\form;
+namespace heliostat\core\form;
 
-use app\core\Model;
+use heliostat\core\Model;
 
 class InputField extends BaseField
 {

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\form;
+namespace heliostat\core\form;
 
 
 class TextAreaField extends BaseField

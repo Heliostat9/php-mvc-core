@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace heliostat\core;
 
 
-use app\core\middlewares\BaseMiddleware;
+use heliostat\core\middlewares\BaseMiddleware;
 
 class Controller
 {

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace heliostat\core;
 
 
 abstract class Model

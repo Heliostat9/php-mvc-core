@@ -1,9 +1,9 @@
 <?php
 
 
-namespace app\core;
+namespace heliostat\core;
 
-use app\core\db\DbModel;
+use heliostat\core\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

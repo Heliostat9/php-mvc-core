@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\exception;
+namespace heliostat\core\exception;
 
 
 class ForbiddenException extends \Exception

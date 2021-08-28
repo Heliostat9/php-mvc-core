@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\middlewares;
+namespace heliostat\core\middlewares;
 
 
 abstract class BaseMiddleware

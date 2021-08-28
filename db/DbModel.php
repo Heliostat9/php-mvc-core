@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core\db;
+namespace heliostat\core\db;
 
 
-use app\core\Application;
-use app\core\Model;
+use heliostat\core\Application;
+use heliostat\core\Model;
 
 abstract class DbModel extends Model
 {

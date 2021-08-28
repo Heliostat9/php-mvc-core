@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core\middlewares;
+namespace heliostat\core\middlewares;
 
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use heliostat\core\Application;
+use heliostat\core\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

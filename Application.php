@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace heliostat\core;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use heliostat\core\db\Database;
+use heliostat\core\db\DbModel;
 use app\models\User;
 
 class Application

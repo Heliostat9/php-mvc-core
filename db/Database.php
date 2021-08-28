@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\db;
+namespace heliostat\core\db;
 
 
-use app\core\Application;
+use heliostat\core\Application;
 
 class Database
 {

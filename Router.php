@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace heliostat\core;
 
-use app\core\exception\NotFoundException;
+use heliostat\core\exception\NotFoundException;
 
 class Router
 {
