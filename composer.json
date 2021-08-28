@@ -1,0 +1,15 @@
+{
+    "name": "heliostat/core",
+    "autoload": {
+        "psr-4": {
+            "Heliostat\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Heliostat9",
+            "email": "heliostat@inbox.ru"
+        }
+    ],
+    "require": {}
+}
